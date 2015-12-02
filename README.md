@@ -9,6 +9,6 @@ Commit para subir a local: git commit -m "Commit Inicial"
 Subir al repo remoto: git push origin master
 
  **NOMBRE** | **GITHUB**
- ___________________________________________
+ ________________________
  Macarena Garañena    [enlace Github](https://github.com/macarenagaranena)
- ___________________________________________
+ ________________________
