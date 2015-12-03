@@ -54,3 +54,4 @@ Subir al repo remoto: git push origin master
 	- Hago git push origin CambioMacarena
 	- Cambio de rama en github
 	- Creo un pullRequest
+(Lo mismo con el repositorio git@github.com:macarenagaranena/campusciff-2015-1.github.io.git)
