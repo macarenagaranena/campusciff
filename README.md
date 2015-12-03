@@ -43,3 +43,14 @@ Subir al repo remoto: git push origin master
 - git list
 - cambio a v0.2 y hago push. Después me situo en master y hago: git branch -d v0.2
 
+#Ejercicio Fork y Pull Request:
+	- Realizo Fork desde GitHub
+	- Hago git clone git@github.com:macarenagaranena/campusciff-Danielobit.github.io.git
+	- Creo una rama: git branch CambioMacarena
+	- Cambio a la rama: git checkout CambioMacarena
+	- Modifico este fichero
+	- Hago git add .
+	- Hago git commit -m "cambio Macarena en Danielobit"
+	- Hago git push origin CambioMacarena
+	- Cambio de rama en github
+	- Creo un pullRequest
