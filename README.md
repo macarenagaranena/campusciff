@@ -9,12 +9,11 @@ Commit para subir a local: git commit -m "Commit Inicial"
 Subir al repo remoto: git push origin master
 
 #Tabla
-
- |**NOMBRE**|**GITHUB**|
- |------|------ | 
- |Macarena Garañena|[enlace Github](https://github.com/macarenagaranena)|
- |Miriam Asenjo	|[enlace Github](https://github.com/Miriam-Asenjo)|
- |Daniel Obit|[enlace Github](https://github.com/Danielobit)|
+|**NOMBRE**|**GITHUB**|
+|------|------| 
+|Macarena Garañena|[enlace Github](https://github.com/macarenagaranena)|
+|Miriam Asenjo	|[enlace Github](https://github.com/Miriam-Asenjo)|
+|Daniel Obit|[enlace Github](https://github.com/Danielobit)|
  
  #Añado todos los comandos que he utilizado a lo largo de la práctica
  
